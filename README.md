@@ -3,14 +3,14 @@
 <p>I am a Full Stack Developer from Germany.</p>
 
 <ul>
-  <li>:rocket:</span> I develop software ideas and solutions and publish them here on Github.</li>
-  <li>:book: I'm interested in software design patterns.</li>
+  <li>:rocket:</span> I develop software ideas and solutions for a variety of topics.</li>
+  <li>:book: I'm interested in various programming languages as well as software design patterns.
   <li>:beach_umbrella: In my free time I solve problems on <a href="https://adventofcode.com/">Advent of Code</a>, <a href="https://practice.geeksforgeeks.org/explore">GeeksforGeeks</a> and <a href="https://cssbattle.dev/")>CSSBattle</a>.</li>
 </ul>
 
 ---
 
-<h3>🛠 Languages and Tools</h3>
+<h3>:hammer_and_wrench: Languages and Tools</h3>
 <span>
   <!-- https://github.com/devicons/devicon/tree/master/icons -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40" />
@@ -41,14 +41,21 @@
 &nbsp;
 &nbsp;
 <span>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
 </span>
+
 <br />
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+#### :telescope: Currently exploring
+<span>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>
+</span>
+
 <!-- https://choosealicense.com/ -->
 <!-- https://creativecommons.org/choose/ -->
