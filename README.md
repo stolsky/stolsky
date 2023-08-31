@@ -49,7 +49,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolsky&layout=compact)
 
 ### :telescope: Currently exploring
 <span>
