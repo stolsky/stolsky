@@ -37,5 +37,16 @@ I am a Full Stack Developer from Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="40" height="40"/> -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/> -->
-  
+
+  <!-- TODO group icons also visually -->
+  <!-- TODO add background color white -> evtl. do all in html -->
 </div>
+
+<!-- https://www.sitepoint.com/github-profile-readme/ -->
+<!-- https://medium.com/theleanprogrammer/a-beginner-guide-to-writing-a-stunning-github-profile-readme-6ee0e211f5a8 -->
+
+<!-- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes -->
+<!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile -->
+
+<!-- https://choosealicense.com/ -->
+<!-- https://creativecommons.org/choose/ -->
