@@ -1,5 +1,6 @@
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
-<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
+<h3>Hi there :wave:</h3>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 
 <p>I am a Full Stack Developer from Germany.</p>
 
