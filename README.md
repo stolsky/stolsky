@@ -36,6 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="d3js" alt="D3" width="40" height="40"/>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>
+  
+  <!-- https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg -->
+  <!-- https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg -->
+  <!-- https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg -->
+  <!-- https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg -->
 </span>
 &nbsp;
 &nbsp;
@@ -43,7 +49,7 @@
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="Groovy" alt="Groovy" width="40" height="40"/>
 </span>
 
 <br />
