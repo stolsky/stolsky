@@ -7,7 +7,11 @@
 <ul>
   <li>:rocket:</span> I develop software ideas and solutions for a variety of topics.</li>
   <li>:book: I'm interested in various programming languages as well as software design patterns.
-  <li>:beach_umbrella: In my free time I pursue private projects or solve problems on <a href="https://adventofcode.com/">Advent of Code</a>, <a href="https://practice.geeksforgeeks.org/explore">GeeksforGeeks</a> and <a href="https://cssbattle.dev/")>CSSBattle</a>.</li>
+  <li>:beach_umbrella: In my free time I pursue private projects or solve problems on
+    <a href="https://adventofcode.com/">Advent of Code</a>,
+    <a href="https://practice.geeksforgeeks.org/explore">GeeksforGeeks</a>,
+    <a href="https://leetcode.com/problemset/">LeetCode</a>,
+    and <a href="https://cssbattle.dev/")>CSSBattle</a>.</li>
 </ul>
 
 ---
